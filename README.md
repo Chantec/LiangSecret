@@ -29,6 +29,11 @@ GUI
 # 时间线
 
 2024-02-05 WinRAR接口测试成功
+2024-02-06 cli
+    lsec init name pwd
+    lsec open name pwd
+    lsec close pwd
+    以上测试成功
 
 # Todo-List
 CLI
