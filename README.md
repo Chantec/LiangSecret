@@ -34,6 +34,10 @@ GUI
     lsec open name pwd
     lsec close pwd
     以上测试成功
+2024-02-07
+    lsec ls
+    yaml
+    以上测试成功
 
 # Todo-List
 CLI
